@@ -60,8 +60,8 @@ text-align:center;
 padding:20px;
  .shop-banner{
 width:100%;
-max-width:700px;
-max-height:350px;
+max-width:500px;
+max-height:250px;
 object-fit:cover;
 display:block;
 margin:15px auto;
@@ -78,7 +78,7 @@ margin-top:20px;
 
 .repair-gallery img{
 width:60%;
-height:160px;
+height:140px;
 object-fit:cover;
 border-radius:10px;
 box-shadow:0 2px 8px rgba(0,0,0,.15);

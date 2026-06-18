@@ -59,9 +59,9 @@ color:white;
 text-align:center;
 padding:20px;
  .shop-banner{
-width:100%;
-max-width:500px;
-max-height:250px;
+width:60%;
+max-width:300px;
+max-height:150px;
 object-fit:cover;
 display:block;
 margin:15px auto;

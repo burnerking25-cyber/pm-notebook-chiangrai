@@ -77,8 +77,8 @@ margin-top:20px;
 }
 
 .repair-gallery img{
-width:60%;
-height:140px;
+width:50%;
+height:50px;
 object-fit:cover;
 border-radius:10px;
 box-shadow:0 2px 8px rgba(0,0,0,.15);
